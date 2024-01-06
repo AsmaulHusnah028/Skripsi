@@ -1,1 +1,1 @@
-# Skripsi
+# Klasifikasi Penyakit Daun Cabai
